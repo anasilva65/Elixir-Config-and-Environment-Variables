@@ -1,4 +1,8 @@
 # HelloConfig
+![](https://i.imgur.com/TmHOKr8.png)
+
+Credits:
+https://staknine.com/elixir-config-environment-variables/
 
 To start your Phoenix server:
 
